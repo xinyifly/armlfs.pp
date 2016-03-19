@@ -1,11 +1,9 @@
-import 'node/iZ11sgipzhjZ.pp'
+import 'iZ11sgipzhjZ.pp'
 
-import 'node/mysql.docker.pp'
+import 'mysql.docker.pp'
 
-import 'node/spigot.docker.pp'
+import 'spigot.docker.pp'
 
-import 'node/apache.docker.pp'
+import 'apache.docker.pp'
 
-import 'node/mysql.dev.docker.pp'
-
-import 'node/sun.dev.docker.pp'
+import 'mysql.dev.docker.pp'
